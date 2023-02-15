@@ -1,0 +1,23 @@
+{
+  "name": "practic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maksim6767/node-practic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maksim6767/node-practic/issues"
+  },
+  "homepage": "https://github.com/Maksim6767/node-practic#readme",
+  "dependencies": {
+    "calc-js": "^2.0.7"
+  }
+}
